@@ -1,0 +1,84 @@
+img {
+    height: 300px;
+    width: 350px;
+    margin-top: 70px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#03A9F4 0%, #FFFF00 100%);
+}
+
+h1 {
+    font-size: 35px;
+    text-shadow: 2px 1px;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif:
+}
+
+div {}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position: absolute;
+
+}
+
+.links {
+    float: left;
+    color: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border: 2px solid #448ee4;
+}
+
+.links hiver {
+    background-image: linear-gradient(pink, Lavender, skyblue);
+    font-size: 25px;
+    text-decoration: underline;
+    color: aqua;
+    font-family: fantasy;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.picture.hover {
+
+    color: purple;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.image {
+    width: 300px;
+}
+#bio{
+    font-size:42; 
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(pink,skyblue);
+}
